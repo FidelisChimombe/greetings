@@ -1,3 +1,3 @@
-module github.com/FidelisChimombe/greetings v1.0.2
+module github.com/FidelisChimombe/greetings
 
 go 1.15
